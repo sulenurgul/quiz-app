@@ -42,7 +42,6 @@ Projede aşağıdaki JavaScript konuları kullanılmıştır:
 quiz-app/
 │
 ├── index.html
-├── style.css
 ├── app.js
 └── README.md
 ```
