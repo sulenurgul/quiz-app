@@ -48,8 +48,6 @@ Quiz.prototype.isFinished = function () {
   return this.currentQuestion >= this.questions.length;
 };
 
-// Sorular
-
 const questions = [
   new Question(
     "Web sayfalarına stil vermek için hangi dil kullanılır?",
