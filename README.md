@@ -2,6 +2,10 @@
 
 JavaScript kullanılarak geliştirilmiş basit bir quiz uygulaması.
 
+## Canlı Demo
+
+[Projeyi Görüntüle](https://quizzapp.netlify.app/)
+
 ## Özellikler
 
 - Quiz başlatma
