@@ -4,7 +4,7 @@ JavaScript kullanılarak geliştirilmiş basit bir quiz uygulaması.
 
 ## Canlı Demo
 
-[Projeyi Görüntüle](https://quizzapp.netlify.app/)
+[Projeyi Görüntüle](https://qiuzapp.netlify.app/)
 
 ## Özellikler
 
